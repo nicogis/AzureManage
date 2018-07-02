@@ -1,0 +1,13 @@
+{
+  "subscriptions": [
+    {
+      "name": "my_name_alias_subscription",
+      "subscription": {
+        "subscription_id": "",
+        "client_id": "",
+        "secret": "",
+        "tenant": ""
+      }
+    }
+  ]
+}
